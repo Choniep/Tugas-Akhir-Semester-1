@@ -90,6 +90,4 @@ public class tugasAkhir {
         }
 
     }
-
-    // program ini InsyaAllah akan saya tambahkan lagi di dalam GitHub...
 }
